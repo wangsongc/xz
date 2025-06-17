@@ -1,0 +1,1 @@
+bash windows/build.bash
